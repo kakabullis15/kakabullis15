@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kakabullis15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kakabullis15 
+- 👀 I’m interested in watching romantic movies
+- 🌱 I’m currently learning korean
+- 💞️ I’m looking to collaborate on school
+- 📫 How to reach me you cant
 
 <!---
 kakabullis15/kakabullis15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
